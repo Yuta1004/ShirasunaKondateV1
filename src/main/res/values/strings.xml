@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">白砂寮献立アプリ</string>
+    <string name="title_name">白砂寮献立</string>
+
+    <string name="title">%1$s年%2$s月%3$s日の献立</string>
+    <string name="title_today">今日の献立</string>
+    <string name="title_tomorrow">明日の献立</string>
+    <string name="title_random">20xx年xx月xx日の献立</string>
+
+    <string name="breakfast">朝食</string>
+    <string name="lunch">昼食</string>
+    <string name="dinner">夕食</string>
+
+    <string name="search">検索</string>
+    <string name="search_title">献立検索</string>
+
+    <string name="today">メイン</string>
+    <string name="reload">再読み込み</string>
+    <string name="calendar">日時指定</string>
+    <string name="notice">寮からのお知らせ</string>
+    <string name="credit">クレジット</string>
+    <string name="setting">設定</string>
+
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+
+    <string name="shuffle_toggle">献立ランダムモード</string>
+
+    <string name="credit_all">このアプリは弓削商船高等専門学校の白砂寮の献立データを取得し、表示するものです。</string>
+    <string name="credit_c">©︎ NIT-Yuge Colleage Micon Club</string>
+
+    <string name="set">決定</string>
+</resources>
